@@ -15,3 +15,5 @@ Here is an example that was discussed and resolved:
 Deltas from one sprint can become positives in the next sprint:
 
 \+ “We progressed the tickets at the beginning of the sprint and that was a great help because I was able to find the information I needed quickly.”
+
+It's ok to bring things up even if you don't have a proposed solution--someone else might have an idea.
