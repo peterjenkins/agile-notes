@@ -1,2 +1,2 @@
 # agile-notes
-[Retrospective](./retrospective.md)
+[Retrospective](./retrospective/retrospective.md)
