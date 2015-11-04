@@ -1,5 +1,7 @@
 # Glossary
 
+**Agile**: Read the agile manifesto.
+
 **Dev team**: The set of individuals that are doing the actual development work of producing a product.
 
 **Product**: The *thing* that gets created and changed by work that the dev team does.
