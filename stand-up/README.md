@@ -48,4 +48,4 @@ Repeat: **This is not a meeting for stakeholders to check up on how things are g
 
 Members of the dev team are likely to direct their speaking towards a single individual. This should be discouraged. Instead, address your peers.
 
-Scrum is meant to be a fast sync up. If everyone's tasks are `piecewise orthogonal`, there's no need to get into details.
+Scrum is meant to be a fast sync up. If everyone's tasks are piecewise orthogonal, there's no need to get into details.
