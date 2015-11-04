@@ -61,7 +61,7 @@ In some cases it may be highly valuable for those who write code to have their o
 
 ## Preparation
 
-An agenda should be included in the meeting invite. This can be by reference to a central wiki or other repository of intellectual capital.
+An agenda should be included in the meeting invite. This can be incorporated by reference to a central wiki or other repository of intellectual capital.
 
 The team is encouraged to reflect back over soon-to-be-completed sprint ahead of time. It's not expected that team members will actually bring previously prepared lists for discussion.
 
