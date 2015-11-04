@@ -16,7 +16,7 @@ As your confidence and experience grows, you learn when you can replace eggs wit
 
 Similarly, there is value to following a time-tested recipe for the retrospective process. This frees your team to focus on specific challenges and needs they are currently facing.
 
-Following someone else's guide also avoids the need for debate and team concensus regarding each aspect of the process. That debate and concensus for changes will still happen. 
+Following someone else's guide also avoids the need for debate and team concensus regarding each aspect of the process. That debate and concensus for changes will still happen.
 
 However, it will happen *after* you have successfully navigated the challenge of putting a new process in place. By that point, your team will be more confident, and accidental complexity is less likely to be introduced.
 
@@ -28,7 +28,7 @@ The retrospective often occurs immediately following the demo. If it was done be
 
 It's recommended not to allow a weekend to interject itself between the demo and the retrospective. (e.g. Scheduling the demo for Friday and the retrospective for Monday.)
 
-If you are going to invest the time in a retrospective, (which you should), you want to do it when everything is fresh. 
+If you are going to invest the time in a retrospective, (which you should), you want to do it when everything is fresh.
 
 ## Space
 
@@ -40,9 +40,9 @@ A room with lots of windows and natural light is desirable, to help prevent the 
 
 ## Roster
 
-The retrospective should consist of the human beings that are doing the actual work. The form of that *actual work* can vary between teams. 
+The retrospective should consist of the human beings that are doing the actual work. The form of that *actual work* can vary between teams.
 
-Typically *work* means one of a few things: 
+Typically *work* means one of a few things:
 
  - Writing code, using a source control management system
  - Testing the executable output of the source code, to ensure that it behaves the way it is supposed to behave
@@ -51,7 +51,7 @@ Some teams may also include an additional type of work:
 
  - Designing and creating resources in the form of png images or other assets
 
-Describing the *intended future behavior* of the product is **not** considered part of the work completed during the sprint by the dev team. 
+Describing the *intended future behavior* of the product is **not** considered part of the work completed during the sprint by the dev team.
 
 If an individual has not been involved in **the actual work** that was done during the time period of the sprint, their voice should not be part of the retrospective.
 
@@ -115,13 +115,13 @@ As your team gets used to working with each other and dedicates time and energy 
 
 Agile abandons the traditional model of ready, aim, fire. Which often becomes ready, aim, aim, aim, aim...
 
-Instead, agile should function like *tracer bullets*. The idea is that special bullets, which produce a pyrotechnic trail, are included in the ammo belt, among regular bullets. 
+Instead, agile should function like *tracer bullets*. The idea is that special bullets, which produce a pyrotechnic trail, are included in the ammo belt, among regular bullets.
 
 When firing, it's possible to visually ascertain whether or not the bullets are hitting their mark. If not, the weapon can be adjusted left or right, up or down as necessary. The result of that adjustment can be seen instantly in the changes to the illuminated trail.
 
 ** *Ready, aim, fire* becomes *Ready, fire, aim.* **
 
-An agile team will block out significantly less time for long and medium range advance planning. Because of this reality, it is especially critical to adjust continuously. 
+An agile team will block out significantly less time for long and medium range advance planning. Because of this reality, it is especially critical to adjust continuously.
 
 Or else the team will not be focused on the appropriate targets, and results will suffer.
 
@@ -151,7 +151,7 @@ Talking points about the retrospective itself are encouraged, whether on the top
 
 ## Anti-patterns
 
-### Skip the silent people. 
+### Skip the silent people.
 
 If members of your group or shy or don't like to speak their mind, it's even more important that they speak up during the retrospective. Especially because they may not speak up in other situations.
 
@@ -161,7 +161,7 @@ It's worthwhile to dedicate some time to tuning the environment and process to h
 
 This anti-pattern involves one turn around the room, with each person saying all of their deltas items at once. This can cause an uncomfortable cadence.
 
-In addition, the quality of the issues raised by any given individual is likely to be lower. This is due to the fact that each of your topics may be unrelated. 
+In addition, the quality of the issues raised by any given individual is likely to be lower. This is due to the fact that each of your topics may be unrelated.
 
 It can feel jarring and frenetic to shift suddenly between topics. In contrast, rotating the room with a comfortable cadence allows each individual a chance to build upon what others have said, or steer the conversation in a different direction.
 
