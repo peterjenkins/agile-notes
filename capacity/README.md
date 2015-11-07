@@ -31,6 +31,7 @@ For each individual on the dev team, you need two pieces of information:
 Continuing with our example, David is 100% dedicated to this development team and doesn't have any planned time off during the sprint. Here's his capacity:
 
 ```
+
 Name   |  Capacity
 -----------------------------------
 David  | 8 X 6 X 100% = 48 hours.
@@ -63,6 +64,8 @@ Here's his capacity:
 Name   |  Capacity
 -----------------------------------
 Elijah | 8 X 6 X 50%  = 24 hours.
+
+```
 
 If you prefer symbolic manipulation to prose, the following equations might help make the mechanics clear:
 
