@@ -34,7 +34,7 @@ Acceptance criteria are very helpful to the developer, once he starts working on
 
 When a task is described by multiple paragraphs of text, by tables, or by long lists of bullet points, it's easy to accidentally leave out some aspects of the requirements.
 
-Two index cards (written in marker, not pen) is about the amount of information a developer can fit **in his head** at one time. This means he can be confident that he's completed the work correctly, and in its entireity. When he knows the story is actually done, he can push it on to the next stage in the process and empty it out of his **mental RAM**.
+Two index cards (written in marker, not pen) is about the amount of information a developer can fit **in his head** at one time. This means he can be confident that he's completed the work correctly, and in its entirety. When he knows the story is actually done, he can push it on to the next stage in the process and empty it out of his **mental RAM**.
 
 This allows him to leave it behind him immediately, like a pair of old shoes, and move on to a fresh new story with a clear head.
 
