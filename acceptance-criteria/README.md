@@ -26,7 +26,7 @@ For both the product owner and the dev team, it is far **easier** and more **cos
 
 Clear and concise acceptance criteria helps you do so **before the software is developed**, rather than after.
 
-Otherwise developers end up wasting their time, and the result doesn't meet the needs of the product owner either. In addition, it's much easier to **build something right the first time**. Unclear requirements can lead to a need to a change a complex, interconnected software system that already exists. **This is far less efficient than tearing up some index cards and starting fresh.**
+Otherwise developers end up wasting their time, and the result doesn't meet the needs of the product owner either. In addition, it's much easier to **build something right the first time**. Unclear requirements can lead to a need to a change a complex, interconnected software system that already exists. This is far less efficient than **tearing up some index cards and starting fresh.**
 
 Consider the case where you've done a good job, and the description of some work can fit onto two 3x5 cards, written with a permanent marker. The chance of serious miscommunication is fairly low. Partly because there's no room to repeat yourself, and the medium forces you to be clear and concise.
 
