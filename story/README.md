@@ -3,7 +3,9 @@
 ## Description
 
 As a developer...
+
 ...I want the software not to crash on start up...
+
 ...so that I can get something done.
 
 ## Acceptance criteria
