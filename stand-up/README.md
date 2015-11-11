@@ -24,7 +24,7 @@ Keeping the conversation between the dev team members keeps focus on what's imme
 
 ## Corollary: Only the dev team can speak
 
-If you didn't do any **actual work** on the sprint since the previous scrum, you don't have a voice at the table. Just say "I don't have anything". Don't discuss projects that you worked on which are outside the scope of the meeting.
+If you didn't do any **actual work** on the sprint since the previous scrum, you don't have a voice at the table. Just say "I don't have anything" if prompted, or just stay silent. Don't discuss projects that you worked on which are outside the scope of the meeting.
 
 Discussing outside projects adds meaningless noise to the voices of the actual development team. It adds friction and slows communication. It's also really distracting.
 
